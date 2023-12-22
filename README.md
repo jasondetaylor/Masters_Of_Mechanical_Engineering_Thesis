@@ -7,19 +7,19 @@ At the time of inception, this experiment was subject to large errors. The goal 
 ## Thesis
 The thesis is divided into the following major sections:
 1. Research and Literature Review
- - A summary of atmospheric aerosols and their role as cloud condensation nuclei
- - A thorough investigation of current viscometer techniques
- - Details of the Bead Mobility Technique (the experiment this thesis sought to improve)
+   - A summary of atmospheric aerosols and their role as cloud condensation nuclei
+   - A thorough investigation of current viscometer techniques
+   - Details of the Bead Mobility Technique (the experiment this thesis sought to improve)
 2. Theoretical Calculations
- - Formulation of a mathematical model of the fluid flow occuring in the experimant
- - Used this model as benchmark during model development alongside experimental results
+   - Formulation of a mathematical model of the fluid flow occuring in the experimant
+   - Used this model as benchmark during model development alongside experimental results
 3. Model Development
- - Details of model design and validation studies performed
+   - Details of model design and validation studies performed
 4. Flow Analysis
- - Utilized the model created and compares results to literature findings and previously created mathematical model
- - Sets up the main variables by which the experiment improvements will be evaluated
+   - Utilized the model created and compares results to literature findings and previously created mathematical model
+   - Sets up the main variables by which the experiment improvements will be evaluated
 5. Parametric Studies
- - Investigates the suspected causes of experimental error and their relative impact on accuracy.
+   - Investigates the suspected causes of experimental error and their relative impact on accuracy.
 
 ## Journal Paper
 This thesis was adapted/extended to become a research paper in collaboration with supervisor Dr Mathieu Sellier. Paper was published in the ‘Colloids and Surfaces A: Physicochemical and Engineering Aspects’ Journal 12 April 2019, DOI: 10.1080/02786826.2019.1599320
